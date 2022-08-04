@@ -2,8 +2,7 @@
 
 
 - 👋 Olá, eu sou @Uzura312
-- 👀 Estou interessado em uma namorada
-- 🌱 Estou pra ser gostoso pra krai
+- 👀 Estou interessado em aprender programar
 
 <!---
 Uzura312/Uzura312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
